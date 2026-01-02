@@ -23,7 +23,7 @@ if __name__ == "__main__":
         marks = list(map(int, sys.argv[3:]))
         print("User provided student details:")
     else:
-        student_name = "Shreya"
+        student_name = "Shraddha"
         department = "Computer Science"
         marks = [70, 75, 80, 85]
         print("No input given - using default values:")
